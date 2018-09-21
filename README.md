@@ -1,4 +1,4 @@
-# MTIP-test
+# MTIP Managing Translational Informatics Projects
 Test repo for MTIP tutorial
 
 ## MTIP-test
